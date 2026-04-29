@@ -57,7 +57,7 @@ Diseases Analyzed
 ---
 
 Project Structure
-
+'''
 disease-risk-prioritization/
 ├── src/
 │   ├── todim_algorithm.py     # TODIM with Prospect Theory
@@ -75,7 +75,7 @@ disease-risk-prioritization/
 ├── assets/                    # Generated charts
 ├── main.py                    # Entry point
 └── requirements.txt
-
+'''
 ---
 
 Setup & Run
